@@ -1,0 +1,21 @@
+/* cascading style sheet */
+/* css syntax*/
+h1{
+    color:red;
+
+}
+
+h3{
+    color:bisque;
+}
+#text{
+    color: blueviolet;
+}
+  
+h1{
+    background-color: brown;
+}
+
+img{
+    background-size:cover;
+}
